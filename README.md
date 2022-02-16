@@ -1,9 +1,8 @@
 # High-frame-rate-3-Hz-circular-photoacoustic-tomography-using-single-element-ultrasound-transducer
 ---
-
 ## Prerequisites
-####The environment of the project can be duplicated using the following commands
 ---
+####The environment of the project can be duplicated using the following commands
 ```python
 python3 -m venv venv/
 source venv/bin/activate
