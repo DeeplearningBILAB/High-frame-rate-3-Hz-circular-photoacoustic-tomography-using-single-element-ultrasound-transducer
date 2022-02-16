@@ -1,8 +1,8 @@
 # High-frame-rate-3-Hz-circular-photoacoustic-tomography-using-single-element-ultrasound-transducer
 ---
-This repository conatins the  implementation of __HD-UNet__.
+##This repository conatins the  implementation of __HD-UNet__.
 ---
-## Prerequisites
+#### Prerequisites
 The environment of the project can be duplicated using the following commands
 ---
 ```python
